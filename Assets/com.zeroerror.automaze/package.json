@@ -1,0 +1,23 @@
+{
+  "name": "com.zeroerror.freeinput",
+  "version": "1.0.0",
+  "description": "迷宫自动生成算法",
+  "displayName": "ZeroError.AutoMaze",
+  "unity": "2019.4",
+  "author": {
+    "name": "ZeroError",
+    "email": "1668118834@qq.com",
+    "url": "https://github.com/ZeroError"
+  },
+  "changelogUrl": "",
+  "dependencies": {},
+  "documentationUrl": "",
+  "hideInEditor": false,
+  "keywords": [
+    "ZeroError"
+  ],
+  "license": "",
+  "licensesUrl": "",
+  "samples": [],
+  "unityRelease": "16f1"
+}

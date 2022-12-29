@@ -1,0 +1,17 @@
+{
+    "name": "AutoMaze.Sample",
+    "rootNamespace": "",
+    "references": [
+        "AutoMaze.Generic",
+        "AutoMaze"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

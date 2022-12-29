@@ -1,0 +1,16 @@
+{
+    "name": "AutoMaze",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f9a74cec68c7f3b439c1105b635cb68f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
